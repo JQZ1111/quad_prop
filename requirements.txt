@@ -1,0 +1,4 @@
+# GPU backended version of jax and jaxlib must be installed. Versions should not be newer than 0.4.20
+numpy==1.26.4
+scipy==1.11.2
+jaxopt==0.8
